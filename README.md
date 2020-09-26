@@ -5,7 +5,7 @@ CRUD básico em uma Web API com ASP .NET Core 2.0
 
 Nossa Web API vai tratar informações de produtos e expor serviços para realizar as operações CRUD.
 
-## Definimos os métodos para gerenciar e retornar informações sobre produtos :
+## Definimos os métodos para gerenciar e retornar informações sobre produtos:
 - AddProduto
 - DeleteProduto
 - ProdutoExists
